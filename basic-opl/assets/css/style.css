@@ -898,6 +898,56 @@ p {
     opacity: 1;
     visibility: visible; }
 
+
+    /*why choose us*/
+    .why-us h2 {
+      position: relative;
+      margin-bottom: 35px;
+      font-weight: 100;
+  }
+  .why-us h2::after {
+      content: "";
+      width: 120px;
+      height: 5px;
+      
+      background: #050505;
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      bottom: -20px;
+      margin: 0 auto;
+  }
+  
+  .why-us .box {
+      padding: 50px 30px;
+      box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.10);
+      transition: 0.5s;
+      position: relative;
+      background-color: #333;
+      max-height: 100px;
+      overflow: hidden;
+      margin-bottom: 30px;
+      border-radius: 10px;
+  }
+  .why-us .box:hover {
+    padding: 30px 30px 70px 30px;
+    box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.20);
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .why-us .box:hover{
+    opacity: 1;
+  }
+  
+ 
+  .why-us .box p {
+    color: #f7f4f4;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
 /*===========================
      08.TESTIMONIAL css 
 ===========================*/
@@ -1225,7 +1275,7 @@ p {
 .footer-about .text {
   color: #fff;
   line-height: 30px;
-  margin-top: 30px; }
+  margin-top: 10px; }
 
 .footer-about .social {
   margin-top: 40px; }
