@@ -11,7 +11,7 @@
 # Hackathon- HackThisFall
 
 # Our Aim-
- We aim to provide safety from online frauds and assaults. Many people suffer from online crime on daily basis.
+ Our aim to provide safety from online frauds and assaults. Many people suffer from online crime on daily basis.
 They have nowhere to go. Many girls are afraid to share their problems. Many older people don't have enough knowledge about it.
 They don't know where to go, whom to reach in such cases. Therefore, we bring a platform where they can get all their queries resolved.
 Our aim to provide such a resources to those people who are helpless in some ways. 
